@@ -1,6 +1,6 @@
 # Drosophila-Embryo-Hatching-Analysis
 This is a series of method to analyze drosophila embryo.
-This is a sub-research of ![Sussex-Neuroscience/embryo-moitoring](https://github.com/Sussex-Neuroscience/embryo-monitoring)
+This is a sub-research of [Sussex-Neuroscience/embryo-moitoring](https://github.com/Sussex-Neuroscience/embryo-monitoring)
 
 ---
 
@@ -9,7 +9,7 @@ This is a sub-research of ![Sussex-Neuroscience/embryo-moitoring](https://github
 
 |||
 |--|--|
-|![](./media/setup1.jpg)|![](./media/setup2.jpg)|
+|![]([.](https://github.com/Sussex-Neuroscience/embryo-monitoring)/media/setup1.jpg)|![]([.](https://github.com/Sussex-Neuroscience/embryo-monitoring)/media/setup2.jpg)|
 
 ---
 
@@ -19,8 +19,8 @@ This is a sub-research of ![Sussex-Neuroscience/embryo-moitoring](https://github
 
 ||empty|water|
 |--|--|--|
-|Visible light|![](https://github.com/Sussex-Neuroscience/embryo-monitoring./media/empty_vis_light.jpg)|![](https://github.com/Sussex-Neuroscience/embryo-monitoring./media/water_vis_light.jpg)|
-|Infra red light|![](https://github.com/Sussex-Neuroscience/embryo-monitoring./media/empty_ir_light.jpg)|![](https://github.com/Sussex-Neuroscience/embryo-monitoring./media/water_ir_light.jpg)|
+|Visible light|![](https://github.com/Sussex-Neuroscience/embryo-monitoring/media/empty_vis_light.jpg)|![](https://github.com/Sussex-Neuroscience/embryo-monitoring/media/water_vis_light.jpg)|
+|Infra red light|![](https://github.com/Sussex-Neuroscience/embryo-monitoring/media/empty_ir_light.jpg)|![](https://github.com/Sussex-Neuroscience/embryo-monitoring/media/water_ir_light.jpg)|
 
 
 
