@@ -9,7 +9,7 @@ This is a sub-research of [Sussex-Neuroscience/embryo-moitoring](https://github.
 
 |||
 |--|--|
-|![]([.](./media/setup1.jpg)|![]([.](./media/setup2.jpg)|
+|![](./media/setup1.jpg)|![](./media/setup2.jpg)|
 
 ---
 
