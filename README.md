@@ -9,7 +9,7 @@ This is a sub-research of [Sussex-Neuroscience/embryo-moitoring](https://github.
 
 |||
 |--|--|
-|![]([.](https://github.com/Sussex-Neuroscience/embryo-monitoring)/media/setup1.jpg)|![]([.](https://github.com/Sussex-Neuroscience/embryo-monitoring)/media/setup2.jpg)|
+|![]([.](./media/setup1.jpg)|![]([.](./media/setup2.jpg)|
 
 ---
 
@@ -19,8 +19,8 @@ This is a sub-research of [Sussex-Neuroscience/embryo-moitoring](https://github.
 
 ||empty|water|
 |--|--|--|
-|Visible light|![](https://github.com/Sussex-Neuroscience/embryo-monitoring/media/empty_vis_light.jpg)|![](https://github.com/Sussex-Neuroscience/embryo-monitoring/media/water_vis_light.jpg)|
-|Infra red light|![](https://github.com/Sussex-Neuroscience/embryo-monitoring/media/empty_ir_light.jpg)|![](https://github.com/Sussex-Neuroscience/embryo-monitoring/media/water_ir_light.jpg)|
+|Visible light|![](./media/empty_vis_light.jpg)|![](./media/water_vis_light.jpg)|
+|Infra red light|![](./media/empty_ir_light.jpg)|![](./media/water_ir_light.jpg)|
 
 
 
@@ -30,7 +30,8 @@ This is a sub-research of [Sussex-Neuroscience/embryo-moitoring](https://github.
  - Subtract running average from brightness average.
  - square square root (so that all values are positive)
  - find hatching point of the embryos (they poke out their heads at the top of the egg shell). This leads normally to a peak on the values of the traces. (maybe shape of the egg.)
-  - parameters that are calculated from traces:
+  
+ - parameters that are calculated from traces:
    - total movement (sum all of the values above a threshold)
    - percentage time moving (number of frames where movement is above the threshold)
    - average movement amplitude (average of movement above a certain threshold)
