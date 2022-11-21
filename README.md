@@ -49,7 +49,7 @@ This is a sub-research of [Sussex-Neuroscience/embryo-moitoring](https://github.
 |![](./media/11.png)|![](./media/12.png)|![](./media/13.png)|
 
 ---
-
+## Data cleaning
 A [time series classification method](https://github.com/DashPulasr/Drosophila-Embryo-Hatching-Analysis/blob/main/Notebooks/TimeSeriesClassification.ipynb) was applied to clean the experimental data and only the undisturbed larval hatching time series were retained for data analysis.
 
 ---
