@@ -43,7 +43,7 @@ This is a sub-research of [Sussex-Neuroscience/embryo-moitoring](https://github.
     - bin traces into 30min periods and show how frequency content changes in each bin 
 
 ---
-Experiment record example
+## Experiment record example
 ||||
 |--|--|--|
 |![](./media/11.png)|![](./media/12.png)|![](./media/13.png)|
