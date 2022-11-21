@@ -44,7 +44,9 @@ This is a sub-research of [Sussex-Neuroscience/embryo-moitoring](https://github.
 
 ---
 Experiment record example
-|！[](./media/11.png)|![](./media/12.png)|![](./media/13.png)|
+||||
+|--|--|--|
+|![](./media/11.png)|![](./media/12.png)|![](./media/13.png)|
 
 ---
 
